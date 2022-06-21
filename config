@@ -1,0 +1,9 @@
+[DEFAULT]
+defaultLogin = compass
+
+[compass]
+tenant = compass
+username = hlconnect
+password = <removed>
+
+
