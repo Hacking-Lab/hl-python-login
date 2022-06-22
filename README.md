@@ -32,11 +32,16 @@ password = <removed>
 SUCCESS 200
 ```
 
+![SUCCESS](./img/hlconnect.png)
+
+
 ## Example ERROR (invalid credentials)
 ```
 > python hl_login.py
 ERROR: invalid username or password 403
 ```
+
+![ERROR](./img/hl-error.png)
 
 ## Disclaimer
 The script does **NOT** work with the SSO (federated logins) service. It will only work for `local` logins on a tenant. 
