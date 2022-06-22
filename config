@@ -3,7 +3,17 @@ defaultLogin = compass
 
 [compass]
 tenant = compass
-username = hlconnect
+username = dmeier
 password = <removed>
+
+[ost]
+tenant = ost
+username = mhuser
+password = <removed>
+
+[hslu]
+tenant = hslu
+username = prohmer
+password = <remove>
 
 
